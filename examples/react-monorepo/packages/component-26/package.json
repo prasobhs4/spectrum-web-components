@@ -1,0 +1,6 @@
+{
+  "name": "@react-monorepo/component-26",
+  "version": "0.1.0",
+  "main": "src/index.tsx",
+  "types": "src/index.tsx"
+}
